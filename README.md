@@ -1,4 +1,4 @@
-# kubeletisrunning
+# kubelet is running
 Guarantee that my kubelet is running each minute
 
 Copy the checker script to the /etc folder
