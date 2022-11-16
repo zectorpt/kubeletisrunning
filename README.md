@@ -1,4 +1,4 @@
-# kubelet is running
+# kubelet is running - Non official method
 Guarantee that my kubelet is running each minute
 
 Copy the checker script to the /etc folder
